@@ -9,6 +9,7 @@ python = "^3.7"
 Django = "<4.0"
 dj-database-url = "^2.1.0"
 psycopg2-binary = "^2.9.9"
+gunicorn = "^21.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
