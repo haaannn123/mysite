@@ -15,5 +15,5 @@ gunicorn = "^21.2.0"
 pytest = "^5.2"
 
 [build-system]
-requires = ["poetry-core>=X.Y.Z"]
+requires = ["poetry-core>=1.6.1"]
 build-backend = "poetry.core.masonry.api"
